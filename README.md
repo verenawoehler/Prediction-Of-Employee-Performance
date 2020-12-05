@@ -1,4 +1,4 @@
-# Prediction od Employee Performance
+# Prediction of Employee Performance
 ML Project: Supervised Classification of Future Employee Performance in a Recruitment Context.
 
 In this ML project, I work on predicting future employee performance
