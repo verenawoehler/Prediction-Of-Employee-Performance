@@ -6,8 +6,10 @@ through competency measures collected during the standardised
 interviewing process.
 
 This project is a simplified version of a former work assignment,
-and I fabricated the dataset based on a similar covariance matrix
-of the predictors and the target variable.
+AND ALL DATA AS MUCH AS THE CONTEXT IN WHICH THIS PROJECT IS EMBEDDED
+HERE ARE COMPLETELY SYNTHETIC. However, the dataset is based on a
+similar covariance matrix of the predictors and target variable of the
+original dataset to closely match the actual work assignment.
 
 The sample has been taken from 225 employees target variable is a
 categorical, ordered factor variable where employees in comparable
